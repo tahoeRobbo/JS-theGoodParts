@@ -3,7 +3,9 @@ Exercises from Doug Crockford's JS - The Good Parts course on Front End Masters
 
 "The plan is - after doing this, you are going to be about 100X  smarter about functions"
 
-All higher-order functions, some cool ish covered included:
+
+
+#All higher-order functions, some cool ish covered included:
 
 --basic binary add/mul functions
 
